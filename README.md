@@ -1,9 +1,8 @@
-# sadaru-website-v2 // Digital Sovereignty
+# sadaru-website-v2 
 
 ![Desktop DarkMode Preview](./preview-desktop-darkmode.png)
 ![Desktop WhiteMode Preview](./preview-desktop-whitemode.png)
 
-> "I build autonomous systems that remove human inefficiency."
 
 This is the personal portfolio and command center for **Malitha Sadaru**. Built to serve as a central node for my digital infrastructure, featuring real-time status monitoring, PGP-encrypted communication channels, and project tracking.
 
@@ -59,4 +58,4 @@ npm run dev
     No-Leak: X-Powered-By headers stripped to obscure backend technology.
 
 
-© 2026 Malitha Sadaru. Built for the 1%.
+© 2026 Malitha Sadaru.
