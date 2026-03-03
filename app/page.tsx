@@ -11,9 +11,9 @@ export default function Home() {
 
   // -- CONFIGURATION -- (Change the links and PGP key as needed)
   const links = {
-    github: "https://github.com/malithasadaru",
-    twitter: "https://twitter.com/malithasadaru_",
-    linkedin: "https://linkedin.com/in/malithasadaru",
+    github: "https://github.com/kmsadaru",
+    twitter: "https://twitter.com/kmsadaru",
+    linkedin: "https://linkedin.com/in/kmsadaru",
     email: "mailto:me@sadaru.com",
     status: "https://status.sadaru.com"
   };
@@ -193,7 +193,7 @@ up+Fx3LlaBDm9kI9tBHsMShHMBp/+5Fhr/0cPHtv34PYa1Ir3vB6b+D1
           </div>
           
           <div className="p-4 bg-neutral-100 dark:bg-neutral-900 rounded-lg border border-neutral-200 dark:border-neutral-800 overflow-hidden relative">
-             <pre className="font-mono text-[10px] md:text-xs text-neutral-600 dark:text-neutral-400 whitespace-pre-wrap break-all selection:bg-purple-500 selection:text-white h-32 overflow-y-auto custom-scrollbar">
+             <pre className="font-mono text-[10px] md:text-xs text-neutral-600 dark:text-neutral-400 whitespace-pre-wrap break-all selection:bg-green-500 selection:text-white h-32 overflow-y-auto custom-scrollbar">
                 {pgpKey}
              </pre>
              {/* Fade overlay at bottom to suggest scrolling */}
